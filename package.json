@@ -15,7 +15,7 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mikro-orm": "^3.6.13",
     "pg": "^8.1.0",
     "typeorm": "^0.2.24"
